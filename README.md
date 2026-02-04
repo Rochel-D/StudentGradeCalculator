@@ -6,3 +6,6 @@ Note: >= 90: A+ >= 75: A >= 60: B >= 50: C < 50: Fail
 3. Create a repository on Github, and push your code to the github repo from your local.
 
 4. Use GitHub Actions to create a CI pipeline to run these testcases on the trigger i.e. Push to the GitHUb repo. (create .yml file)
+
+GitHub Link
+https://github.com/Rochel-D/StudentGradeCalculator
